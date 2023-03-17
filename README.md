@@ -26,7 +26,9 @@ The heatmap shows that Downtown consistently has the highest number of connectio
 
 
 ## Dashboard In Tableau: 
-To make it easier for people to find Wi-Fi hotspots in their area, we've created an interactive dashboard using Tableau.
-You can find the Dashboard here: 
+To make it easier for people to find Wi-Fi hotspots in their area, I've created an interactive dashboard using Tableau. It includes a geojson map that displays the locations of wifi points, as well as a bar chart showing the number of wifi points in each neighborhood and a pie chart displaying the proportion of points located inside or outside. The dashboard also includes filters that allow users to explore the data by neighborhood.
+You can find the Dashboard here: [Wicked Free Wi-Fi: Mapping Access Points Across Massachusetts](https://public.tableau.com/app/profile/joori1804/viz/WickedWifi/Dashboard1)
 
+![Wicked Free Wi-Fi: Mapping Access Points Across Massachusetts](https://github.com/jooriyousif/-Wicked-Free-Wi-Fi/blob/main/Tableau%20Dashboard.png?raw=true)
 
+Atached is a photo of the dashboard, but for an interactive experience, you can check out the dashboard on Tableau Public via this link: [Wicked Free Wi-Fi: Mapping Access Points Across Massachusetts](https://public.tableau.com/app/profile/joori1804/viz/WickedWifi/Dashboard1).
